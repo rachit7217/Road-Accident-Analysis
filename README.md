@@ -1,5 +1,5 @@
 # Road-Accident-Analysis
-![logo](https://github.com/rachit7217/Road-Accident-Analysis/blob/main/Dashboard%208%20Road%20Accident%20Analysis.png)
+![logo]()
 To create a "Road Analysis" project in Power BI, using Excel, SQL, and Power BI, the following steps can be summarized:
 
 1. **Data Collection (Excel/SQL):**
